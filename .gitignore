@@ -15,6 +15,7 @@ downloads/
 eggs/
 .eggs/
 lib/
+Fakebook/
 lib64/
 parts/
 sdist/
@@ -47,6 +48,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 /static/*.png
+/static/*.jpg
 
 # Translations
 *.mo
